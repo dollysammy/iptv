@@ -1505,3 +1505,4 @@ http://lb.kstream.org/aovivo/RADIO_SOCIEDADE/video.m3u8?token=31a63ad55516fbcbb3
 http://lb.kstream.org/aovivo/HD_TOMORROWLAND/video.m3u8?token=31a63ad55516fbcbb3ec2bf28770aed4
 #EXTINF:-1 type="stream" tvg-id="[RADIO] Transcontinental" tvg-logo="https://i.ibb.co/vw2LHgy/a1c8ab23-332c-417a-9c31-6f1fe1120376.jpg" group-title="Radio",[RADIO] Transcontinental
 http://lb.kstream.org/aovivo/RADIO_TRANSCONTINENTAL/video.m3u8?token=31a63ad55516fbcbb3ec2bf28770aed4
+.m3u8
